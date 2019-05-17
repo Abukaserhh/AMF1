@@ -5,9 +5,9 @@ def menu():
     print("""                               
 =======================================                             Today we will prove the basics in termux
 =======================================
-WhatsApp:+967775891378
+WhatsApp:+967711620819
 =======================================
-Telegram:@Professionaltermux
+Telegram:@abukaser
 =======================================                          Choose a number
 _______________________________________________
 1.The basics Termux
